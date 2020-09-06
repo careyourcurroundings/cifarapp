@@ -84,6 +84,7 @@ class Dropzone extends React.Component{
         onChange={this.handleChange.bind(this)}
         dropzoneClass='dropzone'
         filesLimit={99}
+        maxFileSize={10000000}
         dropzoneText='Drag and drop an image or click here.'
         acceptedFiles={['image/jpeg', 'image/png', 'image/bmp']}
         />
