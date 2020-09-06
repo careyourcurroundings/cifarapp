@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cifarapp-dev-213132-authRole",
+      "UnauthRoleArn": "arn:aws:iam::045618503016:role/amplify-cifarapp-dev-213132-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::045618503016:role/amplify-cifarapp-dev-213132-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-cifarapp-dev-213132-deployment",
+      "UnauthRoleName": "amplify-cifarapp-dev-213132-unauthRole",
+      "StackName": "amplify-cifarapp-dev-213132",
+      "StackId": "arn:aws:cloudformation:us-west-2:045618503016:stack/amplify-cifarapp-dev-213132/88a4a800-ef17-11ea-a539-063b7bb3062b",
+      "AmplifyAppId": "d1o70yte877y06"
+    }
+  }
+}
